@@ -18,3 +18,9 @@ And also, what seems impossible today becomes simple tomorrow.
 - CSS
 - JavaScript (Basic)
 - Git
+
+## Education
+
+- **University:** Irkutsk National Research Technical University, Electrical engineer major
+
+## English
